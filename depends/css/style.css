@@ -1,9 +1,9 @@
-@import url('_menu_and_content.css');
-@import url('_content.css');
-@import url('_footer.css');
-@import url('_login.css');
-@import url('_singin.css');
-@import url('_email_varify.css');
+@import url('./_menu_and_content.css');
+@import url('./_content.css');
+@import url('./_footer.css');
+@import url('./_login.css');
+@import url('./_singin.css');
+@import url('./_email_varify.css');
 @font-face {
     font-family: roboto;
     src: 
